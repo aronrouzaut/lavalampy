@@ -1,6 +1,6 @@
 ##  🏮 lavalampy 🐍
 
-A lightweight, procedural lava lamp-inspired visualizer built with Python and GLSL shaders. Yeah, kind of a screensaver, really.
+A lightweight (near-zero resource-hunger), procedural lava lamp-inspired visualizer built with Python and GLSL shaders. Yeah, kind of a screensaver, really.
 
 Instead of rendering heavy 3D graphics or looping a video, this application calculates organic, morphing fluid dynamics mathematically on your GPU in real-time. It features a lightweight, floating Tkinter control panel to adjust the speed and color mood on the fly.
 
