@@ -1,4 +1,5 @@
 ##  🏮 lavalampy 🐍
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5d4dbb55-0920-43a1-ab69-edb437014d94" />
 
 A lightweight (near-zero resource-hunger), procedural lava lamp-inspired visualizer built with Python and GLSL shaders. Yeah, kind of a screensaver, really.
 
@@ -56,3 +57,6 @@ This app requires OpenGL 3.3 support.
 * **Any other problems should come up**: Sod off, I don't work for you. Figure it out.
 
 Oh and I guess you can fiddle with the .py and see what happens. Shaders are a whole realm. Check out the juxtopposed video on them.
+<img width="1366" height="768" alt="2026-06-18_12-50_1" src="https://github.com/user-attachments/assets/a9872409-43bf-40d9-901e-bdc24cadac4b" />
+<img width="1366" height="768" alt="2026-06-18_12-50" src="https://github.com/user-attachments/assets/1b642641-b68e-446a-9f7c-585c837b719b" />
+<img width="1366" height="768" alt="2026-06-18_12-49" src="https://github.com/user-attachments/assets/9e832d6d-efdb-42b8-b5fe-7596c8aab358" />
